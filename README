@@ -1,1 +1,4 @@
 运维平台
+
+python开发
+依赖pymysql模块，访问mysql数据库
